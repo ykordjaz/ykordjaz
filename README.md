@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ykordjaz" alt="ykordjaz" /></a> </p>
 
-- 🔭 I’m currently working on [PfandMe](pfandme.net)
+- 🔭 An ex-teacher, I’m currently working on **finding a full-time position as a developer!** 
 
-- 🌱 I’m currently learning **more Python and JS, more languages and frameworks**
+- 🌱 I’m currently learning **more Python and JS, Java, Node.js**
 
 - 👯 I’m looking to collaborate on **cool projects with you!**
 
