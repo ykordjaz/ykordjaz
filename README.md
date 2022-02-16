@@ -7,7 +7,7 @@
 
 - 🔭 An ex-teacher, I’m currently working on **finding a full-time position as a developer!** 
 
-- 🌱 I’m currently learning **more Python and JS, Java, Node.js**
+- 🌱 I’m currently learning **APIs and testing, specifically with Cucumber.**
 
 - 👯 I’m looking to collaborate on **cool projects with you!**
 
