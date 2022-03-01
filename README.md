@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ykordjaz" alt="ykordjaz" /></a> </p>
 
-- 🔭 An ex-teacher, I’m currently working on **finding a full-time position as a developer!** 
+- 🔭 An ex-teacher, I’m currently working at **Finlex GmbH at a Trainee Software Engineer!** 
 
 - 🌱 I’m currently learning **APIs and testing, specifically with Cucumber.**
 
