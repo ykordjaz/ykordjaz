@@ -7,7 +7,7 @@
 
 - 🔭 An ex-teacher, I’m currently working as a **Trainee Software Engineer** and I'm loving it!
 
-- 🌱 I’m  learning **BDD testing on Rails API apps with Cucumber.**
+- 🌱 I’m  working on **BDD testing on Rails API apps with Cucumber.**
 
 - 👯 I’m looking to collaborate on **cool projects with you!**
 
