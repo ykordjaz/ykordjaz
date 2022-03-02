@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Yasmine</h1>
-<h3 align="center">A junior fullstack developer currently in Berlin, Germany</h3>
+<h3 align="center">A Trainee Software Engineer, currently located in Berlin, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykordjaz&label=Profile%20views&color=0e75b6&style=flat" alt="ykordjaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ykordjaz" alt="ykordjaz" /></a> </p>
 
-- 🔭 An ex-teacher, I’m currently working at **Finlex GmbH at a Trainee Software Engineer!** 
+- 🔭 An ex-teacher, I’m currently working as a **Trainee Software Engineer** and I'm loving it!
 
-- 🌱 I’m currently learning **APIs and testing, specifically with Cucumber.**
+- 🌱 I’m  learning **BDD testing on Rails API apps with Cucumber.**
 
 - 👯 I’m looking to collaborate on **cool projects with you!**
 
