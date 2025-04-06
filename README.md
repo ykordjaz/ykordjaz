@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ykordjaz" alt="ykordjaz" /></a> </p>
 
-- 🔭 An ex-teacher, I’m currently working as a **Trainee Software Engineer** and I'm loving it!
+- 🔭 I’m currently working as a **Software Developer** in Berlin!
 
-- 🌱 I’m  working on **BDD testing on Rails API apps with Cucumber.**
+- 🌱 I’m  working on **improving my knowledge of front-end technologies, especially React, while keeping my back-end knowledge strong.**
 
 - 👯 I’m looking to collaborate on **cool projects with you!**
 
-- 💬 Ask me about **Rails, Ruby, Python**
+- 💬 Ask me about **Rails, Ruby, Python, Go**
 
 - ⚡ Fun fact **I love alternative music and being active.**
 
