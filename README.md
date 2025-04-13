@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Yasmine</h1>
-<h3 align="center">A Trainee Software Engineer, currently located in Berlin, Germany</h3>
+<h3 align="center">A Full-Stack Software Developer, currently located in Berlin, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykordjaz&label=Profile%20views&color=0e75b6&style=flat" alt="ykordjaz" /> </p>
 
